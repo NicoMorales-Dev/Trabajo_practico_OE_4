@@ -37,6 +37,4 @@ El Pull Request #1 incorporó el diagrama BPMN del proceso de ventas y control d
 
 ## Uso de Inteligencia Artificial
 
-Se utilizó un asistente de Inteligencia Artificial como apoyo para organizar ideas, analizar consignas, revisar redacción y elaborar propuestas iniciales de modelado. Las decisiones y el contenido final fueron revisados por el integrante, quien conserva la responsabilidad sobre el trabajo.
-
-La documentación sobre el uso de IA debe distinguir entre las propuestas aceptadas, las respuestas ajustadas y las decisiones finales. No se incluyen capturas simuladas ni conversaciones que no estén disponibles como evidencia.
+Se utilizó un asistente de Inteligencia Artificial como apoyo para organizar ideas, analizar consignas, revisar redacción y elaborar propuestas iniciales de modelado.
