@@ -17,6 +17,10 @@ El trabajo se desarrolla en cuatro etapas progresivas:
 3. **Estructura formal y diseño de datos:** organigrama, diccionario de datos inicial (Producto, Venta, Detalle de Venta y Stock), relaciones y reglas funcionales.
 4. **Modelado y gestión del proyecto:** proceso de ventas y control de stock mediante BPMN, historias de usuario y organización del trabajo con GitHub.
 
+## Diagramas
+
+- **[Diagrama BPMN de ventas y control de stock (versión corregida)](BPMN_VITA.png)**
+
 ## Repositorio y gestión
 
 - **Repositorio:** https://github.com/NicoMorales-Dev/Trabajo_practico_OE_4
